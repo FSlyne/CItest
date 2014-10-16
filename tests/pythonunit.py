@@ -1,4 +1,5 @@
 import sys
+import time
 
 print "this is an output message"
 
