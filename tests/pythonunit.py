@@ -1,5 +1,5 @@
 import sys
-import time
+# Commenting out this line
 
 print "this is an output message"
 
