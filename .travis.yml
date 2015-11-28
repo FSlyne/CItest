@@ -5,4 +5,4 @@ python:
   - "3.2"
   - "3.3"
 # command to install dependencies
-script: python unittests/testcase.py
+script: python unittest/testcase.py
